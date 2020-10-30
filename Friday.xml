@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<day>
+	<lesson>
+		<lesson-format>Очно - дистанционный</lesson-format>
+        <room>403 ауд.</room>
+        <address>Кронверкский пр., д.49, лит.А</address>
+        <subject>Дискретная математика(Практика)</subject>
+        <lecturer>Поляков Владимир Иванович</lecturer>
+        <hour>10:00-11:30</hour>
+        <week>четная неделя</week>
+	</lesson>
+	<lesson>
+        <hour>11:40-13:10</hour>
+        <week>четная неделя</week>
+        <room>403 ауд.</room>
+        <address>Кронверкский пр., д.49, лит.А</address>
+        <subject>Дискретная математика(Практика)</subject>
+        <lecturer>Поляков Владимир Иванович</lecturer>
+		<lesson-format>Очно - дистанционный</lesson-format>
+	</lesson>
+</day>
